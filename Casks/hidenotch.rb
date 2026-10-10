@@ -7,7 +7,7 @@ cask "hidenotch" do
   desc "Hides the MacBook notch by baking a black menu bar into your wallpapers"
   homepage "https://github.com/AgPriyanshu/HideNotch"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "HideNotch.app"
 
