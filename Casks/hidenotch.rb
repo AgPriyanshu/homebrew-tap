@@ -1,6 +1,6 @@
 cask "hidenotch" do
-  version "1.3.0"
-  sha256 "059659fe935c9ccb720e94eab9786bc592fde3a2c8c32d1a4a892870d9a26bb2"
+  version "1.4.0"
+  sha256 "f51b18d6556ed9f09eac284c6670dbdc44d56d604b138e9b8abe04417a837408"
 
   url "https://github.com/AgPriyanshu/HideNotch/releases/download/v#{version}/HideNotch-#{version}.dmg"
   name "HideNotch"
